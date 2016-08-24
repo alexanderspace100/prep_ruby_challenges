@@ -18,3 +18,4 @@ end
 
 puts is_prime?(7)
 puts is_prime?(14)
+
